@@ -214,7 +214,7 @@
     </dependency>
     <dependency>
       <groupId>com.krickert.search</groupId>
-      <artifactId>wikisearch-model</artifactId>
+      <artifactId>search-models</artifactId>
       <version>1.0-SNAPSHOT</version>
       <scope>compile</scope>
     </dependency>
